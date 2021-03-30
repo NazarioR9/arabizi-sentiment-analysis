@@ -43,7 +43,7 @@ PS: This isn't the definitive structure. During the code execution, new director
 # 1. Make sure to follow the repo structure
 # 2. Run 'pip install ./'
 # 3. Run 'notebooks/AI4D_Processing.ipynb'
-# 5. Run 'notebooks/AI4D_rzA27Luehf.ipynb', 'notebooks/AI4D_AH7LwUXCvT.ipynb', 'notebooks/AI4D_10WwJdQcXs.ipynb'
+# 4. Run 'notebooks/AI4D_rzA27Luehf.ipynb', 'notebooks/AI4D_AH7LwUXCvT.ipynb', 'notebooks/AI4D_10WwJdQcXs.ipynb'
 # 5. Run 'python blend.py '
 ```
 
@@ -55,7 +55,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
 # 1. 
 # 2. This step installs the nlp package
 # 3. After this step, verify that 'data/{TrainNormalized.csv, TestNormalized}.csv' exist
-# 4. Directory 'submissions/' will be added to the repo structure and '{multi-dialect-bert-base-arabic*, bert-multilingual-cased*, roberta-base*}.csv' will be written in it.
+# 4. Directory 'submissions/' will be added to the repo structure and contain '{multi-dialect-bert-base-arabic*, bert-multilingual-cased*, roberta-base*}.csv'.
 # 5. Performs a simple weight-blend, then creates 'submissions/final_submission.csv' which is the final submission file.
 ```
 ## [On the Leaderboard](https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi/leaderboard)
