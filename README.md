@@ -44,7 +44,7 @@ PS: This isn't the definitive structure. During the code execution, new director
 # 2. Run 'pip install ./'
 # 3. Run 'notebooks/AI4D_Processing.ipynb'
 # 4. Run 'notebooks/AI4D_rzA27Luehf.ipynb', 'notebooks/AI4D_AH7LwUXCvT.ipynb', 'notebooks/AI4D_10WwJdQcXs.ipynb'
-# 5. Run 'python blend.py '
+# 5. Run 'python blend.py'
 ```
 
 ### Expectations
